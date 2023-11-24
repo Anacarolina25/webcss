@@ -1,0 +1,24 @@
+.P{ 
+	color:white;
+	font-size:20px;
+	font-weight:bold;
+	padding:2%;
+	margin:1PX;
+	background-color:green;
+	border-radius:10px;
+	box-shadow:0px 2px 2px black;
+	text-shadow:0px 1px 2px black;
+	font-family:"arial";
+}	
+.
+
+
+.btnmatricula{
+	color: white;
+	background-color: Green;
+	padding:10px;
+	padding-left:40px;
+	padding-right:40px;
+	font-size:15px;
+	text-shadow:10px;
+}
